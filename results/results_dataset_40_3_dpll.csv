@@ -1,0 +1,12 @@
+filename,satisfiable,time,memory_MB
+rand_40_1.cnf,True,0.5127,0.42
+rand_40_10.cnf,True,0.1389,0.36
+rand_40_2.cnf,True,0.4326,0.38
+rand_40_3.cnf,True,0.0437,0.34
+rand_40_4.cnf,True,0.3951,0.46
+rand_40_5.cnf,False,0.6478,0.34
+rand_40_6.cnf,True,0.8849,0.36
+rand_40_7.cnf,True,0.2776,0.32
+rand_40_8.cnf,True,0.0647,0.36
+rand_40_9.cnf,True,0.2058,0.3
+AVERAGE (no timeouts),90.0%,0.3604,0.36

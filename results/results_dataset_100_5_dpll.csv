@@ -1,0 +1,12 @@
+filename,satisfiable,time,memory_MB
+rand_100_1.cnf,False,inf,0.0
+rand_100_10.cnf,False,inf,0.0
+rand_100_2.cnf,False,inf,0.0
+rand_100_3.cnf,False,inf,0.0
+rand_100_4.cnf,False,inf,0.0
+rand_100_5.cnf,False,inf,0.0
+rand_100_6.cnf,False,inf,0.0
+rand_100_7.cnf,False,inf,0.0
+rand_100_8.cnf,False,inf,0.0
+rand_100_9.cnf,False,inf,0.0
+AVERAGE (no timeouts),0.0%,0.0000,0.00

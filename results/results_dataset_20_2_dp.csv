@@ -1,0 +1,12 @@
+filename,satisfiable,time,memory_MB
+rand_20_1.cnf,True,0.1046,0.19
+rand_20_10.cnf,True,0.0436,0.16
+rand_20_2.cnf,True,0.0349,0.18
+rand_20_3.cnf,True,0.1428,0.18
+rand_20_4.cnf,True,0.0857,0.19
+rand_20_5.cnf,True,0.0884,0.2
+rand_20_6.cnf,True,0.1296,0.18
+rand_20_7.cnf,True,0.1507,0.18
+rand_20_8.cnf,True,0.1093,0.18
+rand_20_9.cnf,True,0.167,0.19
+AVERAGE (no timeouts),100.0%,0.1057,0.18
